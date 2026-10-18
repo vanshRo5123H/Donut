@@ -1,0 +1,46 @@
+{
+  "Team Applications": [
+    {
+      "question": "Minecraft Username (IGN)",
+      "answer_type": "Minecraft Name"
+    },
+    {
+      "question": "Can You PVP?",
+      "answer_type": "Yes / No"
+    }
+  ],
+  "Spawner Buy": [
+    {
+      "question": "Minecraft Username (IGN)",
+      "answer_type": "Minecraft Name"
+    },
+    {
+      "question": "Which Spawner You Want? (Spawner Type)",
+      "answer_type": "Skelly / Iron Golem"
+    },
+    {
+      "question": "How Many? (Quantity)",
+      "answer_type": "How Many You Need?"
+    }
+  ],
+  "Netherite Kit": [
+    {
+      "question": "Minecraft Username (IGN)",
+      "answer_type": "Minecraft Name"
+    },
+    {
+      "question": "Do You Have TP Enabled? (Yes / No)",
+      "answer_type": "Yes / No"
+    }
+  ],
+  "Giveaway Reward": [
+    {
+      "question": "Minecraft Username (IGN)",
+      "answer_type": "Minecraft Name"
+    },
+    {
+      "question": "How Much You Won?",
+      "answer_type": "Example:- 500M"
+    }
+  ]
+}

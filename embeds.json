@@ -1,0 +1,123 @@
+{
+  "Team Applications": {
+    "title": "-------------------------------------",
+    "description": "# \ud83c\udf69 Team Applications\n\n## \ud83e\udd1d Join Our Team\nClick the button below to apply and become part of our team.\n\n### \u2754 Why Join?\n- 12,000+ Skeleton Spawners\n- 20B+ Team Assets\n- Base Raiding & Money Farms\n- Team TPs to Bases & Spawners\n- Shared Loot & Team Support\n\n### \u2754 Requirements\n- Stay Active\n- Be Loyal\n- No Insiding or Leaking Coordinates\n- Work Well as a Team\n\n-# Serious applications only. Good luck!",
+    "color": "blue",
+    "image": "https://cdn.discordapp.com/attachments/1417832896177373306/1553721005921542254/DonutSMP_Team__Market.png?ex=6aba46f2&is=6ab8f572&hm=83cc42fe67ad617028d84079d9121afb7ae687f4e1cfd226210f940996dfc871&",
+    "thumbnail": null,
+    "footer": "",
+    "buttons": [
+      {
+        "name": "Join Team",
+        "emoji": null,
+        "color": "blue",
+        "style": [
+          "primary",
+          1
+        ]
+      }
+    ]
+  },
+  "Team Applications \u2192 Join Team": {
+    "title": "-------------------------------------",
+    "description": "## \u274c Team Application Access Denied\n\nTo maintain a secure and scam-free environment, this action is restricted.\n\n### :arrow_right:  Step 1 \u2014 Complete Safety Verification\n\ud83c\udf10 https://discord.com/channels/1417831537893834795/1552950691809591336\n\n### :arrow_right: Step 2 \u2014 Apply for Team\n\ud83d\udd13 Open a ticket in https://discord.com/channels/1417831537893834795/1552965500605169664 after verification.\n\n### \u26a0\ufe0f Important\n**Access remains locked until verification is completed.**\n\n-# Only verified members can access team application tickets.",
+    "color": "red",
+    "image": null,
+    "thumbnail": null,
+    "footer": "",
+    "buttons": []
+  },
+  "Spawner Buy": {
+    "title": "",
+    "description": "# \ud83d\uded2 Spawner Shop\n\n## \ud83d\udecd\ufe0f Purchase Spawners\nClick the button below to open a purchase ticket.\n\n### \u2754 Why Buy From Us?\n- We Go First\n- Fast Delivery\n- Bulk Orders Available\n- Secure Trades\n\n### \ud83d\udcb8 Prices\nCurrent prices: https://discord.com/channels/1417831537893834795/1553730416798605463\n\n-# Smooth trades \u2022 Serious buyers only.",
+    "color": "dark_blue",
+    "image": "https://cdn.discordapp.com/attachments/1417832896177373306/1553721005921542254/DonutSMP_Team__Market.png?ex=6aba46f2&is=6ab8f572&hm=83cc42fe67ad617028d84079d9121afb7ae687f4e1cfd226210f940996dfc871&",
+    "thumbnail": null,
+    "footer": "",
+    "buttons": [
+      {
+        "name": "Purchase",
+        "emoji": null,
+        "color": "grey",
+        "style": [
+          "secondary",
+          2
+        ]
+      }
+    ]
+  },
+  "Spawner Buy \u2192 Purchase": {
+    "title": "-------------------------------------",
+    "description": "## \u274c Spawner Buy Access Locked\n\nTo maintain a secure and scam-free environment, this action is restricted.\n\n### \u27a1\ufe0f  Step 1 \u2014 Complete Safety Verification\n\ud83c\udf10 https://discord.com/channels/1417831537893834795/1552950691809591336\n\n### \u27a1\ufe0f Step 2 \u2014 Apply for Team\n\ud83d\udd13 Open a ticket in https://discord.com/channels/1417831537893834795/1552965500605169664 after verification.\n\n### \u26a0\ufe0f Important\n**Access remains locked until verification is completed.**\n\n-# Only verified members can access team application tickets.",
+    "color": "blue",
+    "image": null,
+    "thumbnail": null,
+    "footer": "",
+    "buttons": []
+  },
+  "Price": {
+    "title": "-------------------------------------",
+    "description": "# \ud83c\udf69 Spawner Prices\n\n## \ud83d\udcb8 Current Prices\nCheck the latest prices below before placing an order.\n\n> \ud83e\uddb4 **Skeleton Spawner**\n> **5.6M** Each\n> \u2705 We Go First\n> \ud83e\udd2a Selling Only\n\n> \ud83d\uddff **Iron Golem Spawner**\n> **7M** Each\n> \u2705 We Go First\n\n-# Prices are subject to change without notice. All purchases must be made through https://discord.com/channels/1417831537893834795/1552952285322149929",
+    "color": "green",
+    "image": "https://cdn.discordapp.com/attachments/1417832896177373306/1553721005921542254/DonutSMP_Team__Market.png?ex=6aba46f2&is=6ab8f572&hm=83cc42fe67ad617028d84079d9121afb7ae687f4e1cfd226210f940996dfc871&",
+    "thumbnail": null,
+    "footer": "",
+    "buttons": []
+  },
+  "Netherite Kit": {
+    "title": "\ud83c\udf81 Claim Your Starter Kit",
+    "description": "- 1 Netherite Set (with tools)\n- 16 Skeleton Spawners\n- $50M\n\n### Claimable Only Once\n\n-# Don't ask why I'm giving this away \u2014 I honestly don't know.",
+    "color": "blue",
+    "image": "https://cdn.discordapp.com/attachments/1417832896177373306/1553737357809819830/image-5.webp?ex=6aba562d&is=6ab904ad&hm=6c94e9543087a41a4859a0bc17304523acb55b5cf80d33aa74bbdd3553762fac&",
+    "thumbnail": null,
+    "footer": "",
+    "buttons": [
+      {
+        "name": "Claim Netherite Kit",
+        "emoji": null,
+        "color": "blue",
+        "style": [
+          "primary",
+          1
+        ]
+      }
+    ]
+  },
+  "Netherite Kit \u2192 Claim Netherite Kit": {
+    "title": "-------------------------------------",
+    "description": "## \u274c Starter Kit Access Denied\n\nTo maintain a secure and scam-free environment, this action is restricted.\n\n### \u27a1\ufe0f  Step 1 \u2014 Complete Safety Verification\n\ud83c\udf10 https://discord.com/channels/1417831537893834795/1552950691809591336\n\n### \u27a1\ufe0f Step 2 \u2014 Apply for Team\n\ud83d\udd13 Open a ticket in https://discord.com/channels/1417831537893834795/1552965500605169664 after verification.\n\n### \u26a0\ufe0f Important\n**Access remains locked until verification is completed.**\n\n-# Only verified members can access team application tickets.",
+    "color": "blue",
+    "image": null,
+    "thumbnail": null,
+    "footer": "",
+    "buttons": []
+  },
+  "Giveaway Reward": {
+    "title": "-------------------------------------",
+    "description": "# \ud83c\udf69 Giveaway Prize Claim\n\n### \ud83c\udf10 Claim Your Prize\nClick the button below to open a ticket and claim your giveaway reward.\n\n> ### \u2754 Requirements\n> \u27a1\ufe0f Be the confirmed giveaway winner\n> \u27a1\ufe0f Provide proof of your win\n> \u27a1\ufe0f Be ready to receive your prize\n\n-# False or fraudulent claims may result in a blacklist.",
+    "color": "gold",
+    "image": "https://cdn.discordapp.com/attachments/1417832896177373306/1553721005921542254/DonutSMP_Team__Market.png?ex=6aba46f2&is=6ab8f572&hm=83cc42fe67ad617028d84079d9121afb7ae687f4e1cfd226210f940996dfc871&",
+    "thumbnail": null,
+    "footer": "",
+    "buttons": [
+      {
+        "name": "Claim Giveaway",
+        "emoji": null,
+        "color": "green",
+        "style": [
+          "success",
+          3
+        ]
+      }
+    ]
+  },
+  "Giveaway Reward \u2192 Claim Giveaway": {
+    "title": "---------------------------",
+    "description": "## \u274c Giveaway Prize Access Locked\n\nTo maintain a secure and scam-free environment, this action is restricted.\n\n### \u27a1\ufe0f  Step 1 \u2014 Complete Safety Verification\n\ud83c\udf10 https://discord.com/channels/1417831537893834795/1552950691809591336\n\n### \u27a1\ufe0f Step 2 \u2014 Apply for Team\n\ud83d\udd13 Open a ticket in https://discord.com/channels/1417831537893834795/1552965500605169664 after verification.\n\n### \u26a0\ufe0f Important\n**Access remains locked until verification is completed.**\n\n-# Only verified members can access team application tickets.",
+    "color": "red",
+    "image": null,
+    "thumbnail": null,
+    "footer": "",
+    "buttons": []
+  }
+}
